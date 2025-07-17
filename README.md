@@ -131,7 +131,6 @@
 
 ---
 
-### 💬 <span style="color:#00ffee;">Even if contributions are low</span>, I'm just getting started!  
 🔧 Focused on clean code, real-world projects, and constant growth.
 
 > 🧠 <span style="color:#fca311;">“Write code like Luffy sails — fearlessly and with a crew that matters.”</span> — M Saiteja
