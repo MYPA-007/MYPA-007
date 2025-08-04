@@ -86,7 +86,7 @@
 ## 🏢 Work Experience
 
 **Java Full Stack Developer**  
-📍 Unitel Software, Hyderabad | 🕐 2023 – Present  
+📍 Unitel Software, Hyderabad | 🕐 May 2023 – Present  
 - 🚀 Developed scalable REST APIs using Spring Boot  
 - 🧠 Implemented Redis caching (boosted performance 40%)  
 - ☁️ Built & deployed cloud-native apps with AWS + Kubernetes  
